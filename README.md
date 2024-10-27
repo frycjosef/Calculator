@@ -1,1 +1,1 @@
-Calculator Web App - testing task for ASTRATEX company
+Calculator Web App - testing task for ASTRATEX
